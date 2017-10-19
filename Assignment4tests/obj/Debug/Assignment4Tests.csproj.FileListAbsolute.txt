@@ -1,0 +1,6 @@
+C:\Users\TG\Desktop\c#\raupjc-hw1-tests-2017-master\Assignment4Tests\bin\Debug\Assignment4Tests.dll
+C:\Users\TG\Desktop\c#\raupjc-hw1-tests-2017-master\Assignment4Tests\bin\Debug\Assignment4Tests.pdb
+C:\Users\TG\Desktop\c#\raupjc-hw1-tests-2017-master\Assignment4Tests\obj\Debug\Assignment4Tests.csprojResolveAssemblyReference.cache
+C:\Users\TG\Desktop\c#\raupjc-hw1-tests-2017-master\Assignment4Tests\obj\Debug\Assignment4Tests.csproj.CoreCompileInputs.cache
+C:\Users\TG\Desktop\c#\raupjc-hw1-tests-2017-master\Assignment4Tests\obj\Debug\Assignment4Tests.dll
+C:\Users\TG\Desktop\c#\raupjc-hw1-tests-2017-master\Assignment4Tests\obj\Debug\Assignment4Tests.pdb
